@@ -5,21 +5,13 @@
    https://adobe-fonts.github.io/source-serif/ */
 
 :root {
-    --color-text: rgb(56, 54, 50);
-    --color-background: rgb(255, 194, 28);
-    --color-background-secondary: rgb(230, 165, 10);
-    --color-text-secondary: rgb(131, 77, 5);
-    --color-text-faded: rgb(230, 165, 10);
+    --color-text: rgb(54, 54, 54);
+    --color-background: rgb(250, 250, 250);
 }
 
 html {
     color: var(--color-text);
     background-color: var(--color-background);
-}
-
-::selection {
-    background-color: var(--color-text);
-    color: var(--color-background);
 }
 
 body {
@@ -28,37 +20,43 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+h1 {
+    font-size: 3em;
+}
+
 a {
-  color: var(--color-text);
+    color: var(--color-text);
 }
 
 #container {
     margin: 3em auto 3em auto;
-    font-size: 2.5em;
-    max-width: 700px;
+    max-width: 900px;
 }
 
-ul#menu {
-  display: none;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+#body p {
+    font-size: 1.4em;
 }
 
-ul#menu li {
-  display: inline;
+#body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
 }
 
-ul#menu li a {
-  text-decoration: none;
-  color: var(--color-text-secondary);
-  padding: 4px 0px 4px 18px;
+#photo {
+    overflow: hidden;
 }
 
-ul#menu li a.active {
-  color: var(--color-text);
+#photo img {
+    max-width: 135%;
+    max-height: auto;
+    margin-left: -14%;
 }
 
-ul#menu li a:hover {
-  background-color: var(--color-background-secondary);
+#text {
+    text-align: left;
+}
+
+#text p:first-child {
+    margin-top: 0;
 }
