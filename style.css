@@ -28,6 +28,10 @@ a {
     color: var(--color-text);
 }
 
+a.journal {
+    font-style: italic;
+}
+
 #container {
     margin: 3em auto 3em auto;
     max-width: 900px;
