@@ -9,4 +9,4 @@ Her work has appeared in [Same Faces Collective](https://web.archive.org/web/20
 and elsewhere. She holds an MFA in creative writing from Antioch University Los
 Angeles.
 
-Find her on instagram [@elis_tharin](https://www.instagram.com/elis_tharin) or contact her at [hello@marytharin.com](mailto:hello@marytharin.com?subject=Hi%20Mary).
+Find her on instagram [@elis_tharin](https://www.instagram.com/elis_tharin) or at [hello@marytharin.com](mailto:hello@marytharin.com?subject=Hi%20Mary).
