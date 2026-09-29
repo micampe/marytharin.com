@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+<div id="body">
+  <div id="photo"><img src="photos/mary-scotland-1-medium.jpeg"></div>
+  <div id="text">
+  {{ section.content | safe }}
+  </div>
+</div>
+{% endblock content %}
+
