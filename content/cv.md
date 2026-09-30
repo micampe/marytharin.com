@@ -3,17 +3,9 @@ title = "CV"
 weight = 10
 +++
 
-Italy-based writer and teacher working on my debut novel. Exploring the intersection of technology, grief, and the female experience. Represented by Dana Murphy at Trellis Literary. 
+Italy-based writer and teacher exploring the intersection of technology, grief, and the female experience. Represented by Dana Murphy at Trellis Literary. 
 
-## **Education**
-
-Antioch University Los Angeles, MFA in Creative Writing, December 2024
-
-UC Berkeley School of Law, JD, May 2013 
-
-UC San Diego, Ba, INtERNATIONAL STUDIES, June 2008
-
-## **Publications**
+## Publications
 
 “Heal the Traumas of War: A Conversation with Jason Prokowiew,” _Lunch Ticket_ (2026) 
 
@@ -27,7 +19,7 @@ UC San Diego, Ba, INtERNATIONAL STUDIES, June 2008
 
 “The Prototype,” _Five on the Fifth_ (2020)
 
-## **Teaching Experience**
+## Teaching Experience
 
 Seminar: “Punch up your dialogue” 
 
@@ -48,3 +40,11 @@ Mendocino Coast Writers Conference, Mendocino, California (2025)
 Marion Deeds Scholarship Recipient 
 
 Speculative Fiction Award
+
+## Education
+
+Antioch University Los Angeles, MFA in Creative Writing, December 2024
+
+UC Berkeley School of Law, JD, May 2013 
+
+UC San Diego, BA, International Studies, June 2008
