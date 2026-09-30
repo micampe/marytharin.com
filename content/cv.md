@@ -15,8 +15,6 @@ Italy-based writer and teacher exploring the intersection of technology, grief, 
 
 “[Mirage](https://web.archive.org/web/20240624204644/http://www.sixfold.org/FicSummer21/Tharin.html),” _Sixfold_ (2021) 
 
-“Behind the Byline: Alice Greenway,” _New England Review_ (2021)
-
 “[The Prototype](https://web.archive.org/web/20240731101127/https://www.fiveonthefifth.com/vol-5-issue-11-story-1),” _Five on the Fifth_ (2020)
 
 ## Teaching Experience
