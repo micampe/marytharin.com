@@ -1,5 +1,5 @@
 +++
-title = "CV"
+title = "Mary Elis Tharin"
 weight = 10
 +++
 
@@ -11,7 +11,7 @@ Italy-based writer and teacher exploring the intersection of technology, grief, 
 
 “[Glit,](https://web.archive.org/web/20260113081427/https://www.samefacescollective.com/post/_glit)” _Same Faces Collective_ (2025) 
 
-“Behind the Byline: Alyssa Pelish,” New England Review (2022)
+“Behind the Byline: Alyssa Pelish,” _New England Review_ (2022)
 
 “[Mirage](https://web.archive.org/web/20240624204644/http://www.sixfold.org/FicSummer21/Tharin.html),” _Sixfold_ (2021) 
 
