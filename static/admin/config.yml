@@ -18,7 +18,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { name: title,  label: Title,           widget: string }
-      - { name: weight, label: Order in menu,   widget: number, value_type: int, default: 10 }
+      - { name: weight, label: Order in menu,   widget: hidden, value_type: int, default: 10 }
       - { name: body,   label: Body,            widget: markdown }
     index_file:
       label: Home Page
